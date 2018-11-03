@@ -1,2 +1,3 @@
 # hello-world
 i'm at the starting block...
+I'm Loren and I'm new here. Can't wait to learn and share :)
